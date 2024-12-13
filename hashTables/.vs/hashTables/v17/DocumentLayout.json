@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Catalogo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\Catalogo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\TemplateListasDobles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\TemplateListasDobles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\tablasHash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\tablasHash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Monstruo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\Monstruo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Monstruo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\Monstruo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Catalogo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\Catalogo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\tablasHash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\tablasHash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3207C-BDD8-475D-99B5-DC5D4F929D77}|hashTables\\hashTables.vcxproj|solutionrelative:hashTables\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monstruo.h",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Monstruo.h",
+              "RelativeDocumentMoniker": "hashTables\\Monstruo.h",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Monstruo.h",
+              "RelativeToolTip": "hashTables\\Monstruo.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T18:18:09.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monstruo.cpp",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Monstruo.cpp",
+              "RelativeDocumentMoniker": "hashTables\\Monstruo.cpp",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Monstruo.cpp",
+              "RelativeToolTip": "hashTables\\Monstruo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T18:12:24.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalogo.cpp",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Catalogo.cpp",
+              "RelativeDocumentMoniker": "hashTables\\Catalogo.cpp",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Catalogo.cpp",
+              "RelativeToolTip": "hashTables\\Catalogo.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAlwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T05:31:25.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\main.cpp",
+              "RelativeDocumentMoniker": "hashTables\\main.cpp",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\main.cpp",
+              "RelativeToolTip": "hashTables\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T05:42:47.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catalogo.h",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Catalogo.h",
+              "RelativeDocumentMoniker": "hashTables\\Catalogo.h",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\Catalogo.h",
+              "RelativeToolTip": "hashTables\\Catalogo.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T05:31:24.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tablasHash.h",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\tablasHash.h",
+              "RelativeDocumentMoniker": "hashTables\\tablasHash.h",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\tablasHash.h",
+              "RelativeToolTip": "hashTables\\tablasHash.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T03:58:06.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tablasHash.cpp",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\tablasHash.cpp",
+              "RelativeDocumentMoniker": "hashTables\\tablasHash.cpp",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\tablasHash.cpp",
+              "RelativeToolTip": "hashTables\\tablasHash.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T03:58:03.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemplateListasDobles.h",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\TemplateListasDobles.h",
+              "RelativeDocumentMoniker": "hashTables\\TemplateListasDobles.h",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\hashTables\\hashTables\\TemplateListasDobles.h",
+              "RelativeToolTip": "hashTables\\TemplateListasDobles.h",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAOMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T04:01:06.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

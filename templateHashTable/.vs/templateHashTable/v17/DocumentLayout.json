@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44047AD2-EE34-4BD7-B008-930696AC8F0A}|templateHashTable\\templateHashTable.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\TemplateListasDobles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44047AD2-EE34-4BD7-B008-930696AC8F0A}|templateHashTable\\templateHashTable.vcxproj|solutionrelative:templateHashTable\\TemplateListasDobles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44047AD2-EE34-4BD7-B008-930696AC8F0A}|templateHashTable\\templateHashTable.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\templateHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44047AD2-EE34-4BD7-B008-930696AC8F0A}|templateHashTable\\templateHashTable.vcxproj|solutionrelative:templateHashTable\\templateHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44047AD2-EE34-4BD7-B008-930696AC8F0A}|templateHashTable\\templateHashTable.vcxproj|C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\templateHashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44047AD2-EE34-4BD7-B008-930696AC8F0A}|templateHashTable\\templateHashTable.vcxproj|solutionrelative:templateHashTable\\templateHashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemplateListasDobles.h",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\TemplateListasDobles.h",
+              "RelativeDocumentMoniker": "templateHashTable\\TemplateListasDobles.h",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\TemplateListasDobles.h",
+              "RelativeToolTip": "templateHashTable\\TemplateListasDobles.h",
+              "ViewState": "AQIAANQAAAAAAAAAAAAAANgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T08:57:11.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "templateHashTable.h",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\templateHashTable.h",
+              "RelativeDocumentMoniker": "templateHashTable\\templateHashTable.h",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\templateHashTable.h",
+              "RelativeToolTip": "templateHashTable\\templateHashTable.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T08:55:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "templateHashTable.cpp",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\templateHashTable.cpp",
+              "RelativeDocumentMoniker": "templateHashTable\\templateHashTable.cpp",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\progra itc3\\templateHashTable\\templateHashTable\\templateHashTable.cpp",
+              "RelativeToolTip": "templateHashTable\\templateHashTable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T08:54:35.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

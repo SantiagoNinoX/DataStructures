@@ -1,0 +1,7 @@
+﻿  Catalogo.cpp
+C:\Users\santi\source\repos\progra itc3\hashTables\hashTables\Catalogo.h(13,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  main.cpp
+C:\Users\santi\source\repos\progra itc3\hashTables\hashTables\Catalogo.h(13,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  tablasHash.cpp
+  Generando código...
+  hashTables.vcxproj -> C:\Users\santi\source\repos\progra itc3\hashTables\x64\Debug\hashTables.exe

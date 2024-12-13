@@ -1,0 +1,7 @@
+﻿  Base.cpp
+C:\Users\santi\source\repos\progra itc3\claseOrdenamiento\claseOrdenamiento\Base.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\santi\source\repos\progra itc3\claseOrdenamiento\claseOrdenamiento\Base.cpp(174,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\source\repos\progra itc3\claseOrdenamiento\claseOrdenamiento\Base.cpp(198,14): warning C4018: '<': no coinciden signed/unsigned
+  main.cpp
+  Generando código...
+  claseOrdenamiento.vcxproj -> C:\Users\santi\source\repos\progra itc3\claseOrdenamiento\x64\Debug\claseOrdenamiento.exe

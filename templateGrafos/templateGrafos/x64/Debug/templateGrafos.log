@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\santi\source\repos\progra itc3\templateGrafos\templateGrafos\templateGrafos.h(300,11): error C2440: 'return': no se puede realizar la conversión de 'T' a 'unsigned int *'
+C:\Users\santi\source\repos\progra itc3\templateGrafos\templateGrafos\templateGrafos.h(300,11): error C2440:         with
+C:\Users\santi\source\repos\progra itc3\templateGrafos\templateGrafos\templateGrafos.h(300,11): error C2440:         [
+C:\Users\santi\source\repos\progra itc3\templateGrafos\templateGrafos\templateGrafos.h(300,11): error C2440:             T=unsigned int
+C:\Users\santi\source\repos\progra itc3\templateGrafos\templateGrafos\templateGrafos.h(300,11): error C2440:         ]
